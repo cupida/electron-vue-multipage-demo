@@ -1,18 +1,19 @@
 # electron-vue-multipage-demo
 
-> 
+## 基于electron-vue改造的多页面demo，仅用来演示
+## github提醒一些npm包有漏洞，因此，切勿将本demo应用到实际项目中
 
 #### Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:9080
-npm run dev
+yarn run dev
 
 # build electron application for production
-npm run build
+yarn run build
 
 
 ```
